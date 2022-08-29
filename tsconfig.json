@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6", //es6 버전으로 컴파일
+    "lib": ["es6", "dom", "dom.iterable"], // 타입스크립트에게 어떤 api를 사용하고 어떤 환경에서 코드를 실행하는지를 말해준다. 자동완성 기능을 사용할 수 있다.
+    "outDir": "build" // build라는 폴더에 js 파일로 저장
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}

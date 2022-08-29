@@ -1,0 +1,21 @@
+{
+  "name": "notion-cloning",
+  "version": "1.0.0",
+  "description": "Notion cloning with typescript",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steadystudy/Notion-cloning.git"
+  },
+  "author": "Steadystudy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steadystudy/Notion-cloning/issues"
+  },
+  "homepage": "https://github.com/Steadystudy/Notion-cloning#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
